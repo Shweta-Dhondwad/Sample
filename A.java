@@ -15,6 +15,7 @@ System.out.println("Im in ma A");
  class C extends B{
 	void m1(C c){
 		System.out.println("Im in ma C");
+System.out.println("End of program");
 
 	}
 }
