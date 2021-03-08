@@ -21,6 +21,7 @@ s.add(10.5f, 1);
 s.add(10);
 //s.add(10, 10);
 //s.add(10.5f, 10.5f);
+		System.out.println("End of program");
 		
 		
 	}
