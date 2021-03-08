@@ -30,7 +30,7 @@ Main d1 = new Main();
 		 //  main(s);
 	  //  String[] s={"ANBC","DKFJ"};
 	//	   main(s);
-//System.out.println("helloooooo");
+    System.out.println("helloooooo");
 		   
 		  }
 	}
